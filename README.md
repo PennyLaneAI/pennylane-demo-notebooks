@@ -27,7 +27,7 @@ This repository is not actively maintained. If you have any issues with these de
 - **Questions and issues:** https://discuss.pennylane.ai/c/demos
 
 If you have any issues with the qBraid environment please contact qBraid directly.
-https://github.com/qBraid/
+You can find more information at https://github.com/qBraid/ .
 
 ## License
 
