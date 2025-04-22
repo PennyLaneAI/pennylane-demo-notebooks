@@ -16,7 +16,15 @@ The images for these demos are contained in the `static/demonstration_assets` fo
 
 🚀 Click on the "Launch on qBraid" button to access the notebooks in your qBraid account. [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/PennyLaneAI/pennylane-demo-notebooks.git)
 
-🚀 If you're running on qBraid please add an environment with the latest PennyLane version, double-click on the demo you want to run, and choose a PennyLane kernel on the top-right of the notebook. See an example in the [qBraid docs](https://docs.qbraid.com/lab/user-guide/notebooks#switch-notebook-kernel).
+🚀 If you're running on qBraid please follow these steps:
+
+1. Add an environment with the latest PennyLane version available:
+   - In the *Environments* section on the right-hand side, click on *add*,
+   - Search for PennyLane,
+   - Choose the latest PennyLane version available (v0.41.0 at the moment),
+   - Click on *Install*.
+2. Double-click on the *notebooks* folder and then double-click on the demo you want to run.
+3. On the top-right of the notebook choose the PennyLane kernel. See an example in the [qBraid docs](https://docs.qbraid.com/lab/user-guide/notebooks#switch-notebook-kernel).
 
 ## Support
 
