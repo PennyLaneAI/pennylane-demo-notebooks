@@ -18,8 +18,8 @@ The images for these demos are contained in the `static/demonstration_assets` fo
 
 🚀 If you're running on qBraid please follow these steps:
 
-1. Add an environment with the latest PennyLane version available:
-   - In the *Environments* section on the right-hand side, click on *add*,
+1. Add an environment with the latest PennyLane version available.
+   - In the *Environments* section on the right-hand side click on *add*,
    - Search for PennyLane,
    - Choose the latest PennyLane version available (v0.41.0 at the moment),
    - Click on *Install*.
