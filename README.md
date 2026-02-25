@@ -2,7 +2,7 @@
 
 [PennyLane](https://pennylane.ai/) is a cross-platform Python library for differentiable programming of quantum computers.
 
-The main repository for demos is [PennyLaneAI/qml](https://github.com/PennyLaneAI/qml).
+The main repository for demos is [PennyLaneAI/demos](https://github.com/PennyLaneAI/demos).
 All the demos here can be found at [pennylane.ai](https://pennylane.ai/).
 
 This repository contains some PennyLane demos in Jupyter notebook format. 
@@ -31,7 +31,7 @@ The images for these demos are contained in the `static/demonstration_assets` fo
 This repository is not actively maintained. If you have any issues with these demos please visit one of the pages below:
 
 - **Built demos:** https://pennylane.ai
-- **Source Code:** https://github.com/PennyLaneAI/QML
+- **Source Code:** https://github.com/PennyLaneAI/demos
 - **Questions and issues:** https://discuss.pennylane.ai/c/demos
 
 If you have any issues with the qBraid environment please contact qBraid directly.
