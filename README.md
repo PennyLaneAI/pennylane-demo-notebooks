@@ -1,6 +1,6 @@
 # PennyLane demo notebooks
 
-[PennyLane](https://pennylane.ai/) is a cross-platform Python library for differentiable programming of quantum computers.
+[PennyLane](https://pennylane.ai/) is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.
 
 The main repository for demos is [PennyLaneAI/demos](https://github.com/PennyLaneAI/demos).
 All the demos here can be found at [pennylane.ai](https://pennylane.ai/).
