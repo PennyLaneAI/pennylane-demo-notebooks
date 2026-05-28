@@ -18,7 +18,7 @@ You can run these notebooks in the cloud or on your local machine.
 
 🚀 Click on the "Launch on qBraid" button below to access the notebooks in your qBraid account. 
 
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/PennyLaneAI/pennylane-demo-notebooks.git)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/explore/projects/pennylane-qsvt-demo)
 
 *(Note: Give it a couple of minutes for qBraid to clone the repository and set up your PennyLane environment.)*
 
